@@ -29,13 +29,9 @@ School](http://nbviewer.ipython.org/github/SheffieldML/notebook/blob/master/lab_
 ### Upcoming Schools
 
 The next scheduled schools are:
-
-  Location              Dates                      Event
-  --------------------- -------------------------- ----------------------------------------------------------------------------------------
-  Copenhagen, Denmark   May 2015                   [Workshop on Gaussian Process Approximations](https://sites.google.com/site/gpapprox/)
-  Nyeri, Kenya          15th-17th June 2015        [ODS: Data Science School](./dss15)
-  Nyeri, Kenya          18th-19th June 2015        [Workshop on Datascience in Africa](./dsa15)
-  Sheffield, UK         14th-16th September 2015   [Gaussian Process Summer School](./gpss15)
+{% for meeting in site.data.meetings %}
+{% if meeting.present %}[{{ meeting.event }}]({{ meeting.url }}), {{ meeting.location }}{% if meeting.startday %}, {{ meeting.startday }}{% if meeting.endday %}-{{ meeting.endday }}{% endif %}{% endif %} {{ meeting.startmonth }} {{ meeting.year }}{% endif %}
+{% endfor %}
 
 The most recent road show was the [Gaussian Winter School in Genoa,
 Italy](./gprs15a). The most recent Sheffield school was the [The
