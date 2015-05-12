@@ -18,7 +18,10 @@ For lab classes see [this page](lab.html).
 
 
 [Day 1: Regression and PRobability](./day1.html)
+
 [Day 2: Gaussian Processes](./day2.html)
+
 [Day 3: Multiple Output Processes](./day3.html)
+
 [Day 4: Approximations](./day4.html)
 
