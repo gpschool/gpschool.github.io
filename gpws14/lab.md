@@ -1,12 +1,10 @@
 ---
 layout: page
 title: Lab Classes
-tagline: Gaussian Process Winter School 2014
+tagline: Gaussian process winter school, 2014
 ---
 
 
-Lab Class
-=========
 
 ### Connecting to the Internet
 
@@ -44,6 +42,7 @@ the relvant lab class.
 
 If you return to the original notebook screen and you should see that
 the relevant lab is now available. Click on it and start the lab.
+
 ### No Installed IPython or GPy
 
 For attendees without IPython installed on their notebooks we are
