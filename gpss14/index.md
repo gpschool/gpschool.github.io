@@ -7,6 +7,11 @@ tagline: Sheffield Gaussian process summer school
 University of Sheffield, UK
  15th - 17th September 2014
 
+
+{% for slot in site.data.gpss14 %}
+{% if slot.start %}{{ slot.start }}{% if slot.end %}-{{ slot.end }} {% endif %}{% endif %}{% if slot.pdf %}[{{ slot.title }}]({{ slot.pdf }}){% else %}{{ slot.title }}{% endif %}{% if slot.speaker %}, {{ slot.speaker }}{% endif %}{% if slot.institution %}, {{ slot.institution }}{% endif %}
+{% endfor %}
+
 ## Monday 15th September
 
   8:00-9:00   **Arrivals**
