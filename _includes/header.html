@@ -1,8 +1,29 @@
 <header class="site-header">
+  <table summary="Header Table"><tr>
+      <td id="headerLeft">
+	<div id="headerCrest">
+    <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/gpss_logo.svg" width="150" alt="Logo" /></a> 
+	</div>
+      </td>
+      <td id="headerRight">
+	<!-- page heading  -->
+	<div id="headerTitle"> 
+	  <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+	</div>
+      </td>
+      </tr>
+      <tr>
+      <td>
+      </td>
+      <td>
+      	  <h2 id="topSubTitle">IUDICIUM POSTERIUM DISCIPULUS EST PRIORIS</h2>
+	<!-- // page heading -->
+      </td>      
+    </tr>
+  </table>
 
   <div class="wrapper">
 
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -15,7 +36,7 @@
 
       <div class="trigger">
         {% for page in site.pages %}
-          {% if page.title %}
+          {% if page.main %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}

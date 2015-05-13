@@ -2,6 +2,7 @@
 layout: page
 title: History
 tagline: how these meetings came into being
+main: Y
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ODS: Data Science in Africa
+title: "ODS: Data Science in Africa"
 tagline: hosted by DeKUT
 ---
 

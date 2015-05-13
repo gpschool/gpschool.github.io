@@ -2,6 +2,7 @@
 layout: page
 title: Accommodation in Sheffield
 tagline: where to stay and eat
+main: Y
 ---
 
 
@@ -27,12 +28,13 @@ from the main campus and not from SITraN (where the event will take
 place), so you might want to also consult a map (see below).
 
 
-Sheffield Institute for Translational Neuroscience, 385A Glossop Road,
+Sheffield Institute for Translational Neuroscience,
+385A Glossop Road,
 S10 2HQ, Sheffield, UK
 
 Details of accommodation availability for upcoming schools will appear
 here.
 
-[SITraN, Map](https://mapsengine.google.com/map/edit?mid=zlMmxR9AWVCE.ksPn_xZ3BtB8)\
+[SITraN, Map](https://mapsengine.google.com/map/edit?mid=zlMmxR9AWVCE.ksPn_xZ3BtB8)
 ![](assets/images/map.png)
 

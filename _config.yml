@@ -5,9 +5,10 @@ description: > # this means to ignore newlines until "baseurl:"
   Gaussian process summer schools teach the theory and practice of
   Gaussian processes. This site gives details of schools past and present.
 baseurl: "" # the subpath of your site, e.g. /blog/
+logo: "gpss_logo.svg"
 url: "http://gpss.cc" # the base hostname & protocol for your site
 twitter_username: datascienceshef
-github_username:  lawrennd
+github_username:  SheffieldML
 
 # Build settings
 markdown: kramdown
