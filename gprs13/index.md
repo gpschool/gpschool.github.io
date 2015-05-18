@@ -1,40 +1,17 @@
 ---
-layout: page
-title: Gaussian Process School, Uganda, 2013
-tagline: introduction to Gaussian processes taught in at Makerere University
+layout: default
 ---
 
+{% for date in site.conference.dates %}
+## {{ date.day }} {{ date.date }} {{ date.month }} 
+{% for slot in site.data.lectures %}
+{% assign thedate = slot.date | plus: 0%}
+{% if date.date == thedate %}
+{% if slot.start %}{{ slot.start }}{% if slot.end %}-{{ slot.end }} {% endif %}{% endif %}{% if slot.pdf %}[{{ slot.title }}]({{ slot.pdf }}){% else %}{{ slot.title }}{% endif %}{% if slot.speaker %}, {{ slot.speaker }}{% endif %}{% if slot.institution %}, {{ slot.institution }}{% endif %}{% if slot.ipynb %} [[jupyter notebook]({{ slot.ipynb }})]{% endif %}
+{% if slot.youtube %}
+<iframe width="{{ site.youtube.width }}" height="{{ site.youtube.height }}" src="https://www.youtube.com/embed/{{ slot.youtube }}" frameborder="0" allowfullscreen></iframe>
+{% endif %}
+{% endif %}
+{% endfor %}
+{% endfor %}
 
-
-University of Makerere, Kampala, Uganda
- 6th - 9th August 2013
-
-organised with Ricardo Andrade Pacheco
-
-Hosted by [John Quinn](http://cit.mak.ac.ug/staff/jquinn/) and [Martin
-Mubangizi](http://cit.mak.ac.ug/cs/aigroup/mmubangizi/)
-
-# Agenda
-
-## Tuesday 6th August
-
-  9:30-12:30   **Linear Regression** [[Lecture Slides](session1.pdf)][[Lab Sheet](lab0.pdf)][[ipython notebook](labs_gprs13.ipynb)]
-               Neil Lawrence and Ricardo Andrade Pacheco, University of Sheffield
-
-## Wednesday 7th August
-
-  9:30-12:30   **Basis Functions, Model Selection and Bayesian Inference** [[Lecture Slides](session2.pdf)][[Lab Sheet](lab0.pdf)][[ipython notebook](labs_gprs13.ipynb)]
-               Neil Lawrence and Ricardo Andrade Pacheco, University of Sheffield
-
-## Thursday 8th August
-
-  Eid Holiday
-
-## Friday 9th August
-
-  9:30-12:30   **Gaussian Processes** [[Lecture Slides](session3.pdf)][[Lab Sheet](lab1.pdf)][[ipython notebook](labs_gprs13.ipynb)]
-               Neil Lawrence and Ricardo Andrade Pacheco, University of Sheffield
-
-## Final Session: Bring Your Own Data
-
-  14:00        **Neil Lawrence and Ricardo Andrade Pacheco**, University of Sheffield   *Bring Your Own Data*
