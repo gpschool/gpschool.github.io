@@ -22,7 +22,7 @@ As part of the [Open Data Science
 Initiative](http://ml.dcs.shef.ac.uk/odss/) we have also begun a series
 of schools on "Data Science" starting with the first in Kenya June 2015.
 
-Neil will also be presenting on Gaussian processes at the [2015 Sydney
+Neil also presented on Gaussian processes at the [2015 Sydney
 Machine Learning Summer
 School](http://nbviewer.ipython.org/github/SheffieldML/notebook/blob/master/lab_classes/mlss/index.ipynb).
 
