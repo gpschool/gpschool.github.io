@@ -34,5 +34,5 @@ z.dai AT shef.ac.uk)
 ### Register at the Online Store
 
 [Register
-here.](http://onlineshop.shef.ac.uk/browse/extra_info.asp?compid=1&modid=2&deptid=8&catid=39&prodid=300)
+here.](https://onlineshop.shef.ac.uk/browse/extra_info.asp?compid=1&modid=2&deptid=8&catid=39&prodid=411)
 
