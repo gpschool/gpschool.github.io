@@ -2,6 +2,7 @@
 layout: page
 title: Registration
 tagline: joining our schools
+main: Y
 ---
 
 
