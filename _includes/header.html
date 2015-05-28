@@ -2,7 +2,7 @@
   <table summary="Header Table"><tr>
       <td id="headerLeft">
 	<div id="headerCrest">
-    <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/gpss_logo.svg" width="150" alt="Logo" /></a> 
+    <a href="{{ site.url }}/"><img src="{{ site.url }}/gpss_logo.svg" width="150" alt="Logo" /></a> 
 	</div>
       </td>
       <td id="headerRight">
@@ -35,6 +35,7 @@
       </a>
 
       <div class="trigger">
+	<a class="page-link" href="{{ site.url }}">Home</a>
         {% for page in site.pages %}
           {% if page.main %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>

@@ -5,7 +5,7 @@ tagline: how to fly, train and drive to Sheffield
 main: Y
 ---
 
-The 2014 Gaussian process summer school will take place in Pam
+The 2015 Gaussian process summer school will take place in Pam
 Liversidge Building, PLB-D05.
 
 Due to the structure of Pam Liversidge Building, it has to be entered
