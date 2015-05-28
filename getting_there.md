@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Getting to Sheffield
+title: Getting Here
 tagline: how to fly, train and drive to Sheffield
 main: Y
 ---

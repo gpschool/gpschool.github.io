@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Accommodation in Sheffield
+title: Accommodation
 tagline: where to stay and eat
 main: Y
 ---
