@@ -9,11 +9,14 @@ Y,"Nyeri, Kenya",18,19,June,,2015,"Workshop on Datascience in Africa",./dsa15,"C
 ,"Sheffield, UK",18,,September,,2014,"Workshop on Gaussian Processes for Feature Extraction",./gpfe14,Zhenwen Dai
 ,"Sheffield, UK",15,17,September,,2014,"Gaussian Process Summer School",./gpss14,Zhenwen Dai
 ,"Pereira, Colombia",11,14,February,,2014,"Gaussian Process School",./gprs14,Mauricio Alvarez
-,"Sheffield, UK",16,,January,,2014,"Workshop on Spatiotemporal Modelling with Gaussian Processes",./gpst14
+,"Sheffield, UK",16,,January,,2014,"Workshop on Spatiotemporal Modelling with Gaussian Processes",./gpst14,
 ,"Sheffield, UK",13,15,January,,2014,"Gaussian Process Winter School",./gpws14,Alan Saul, Andreas Damianou and the Sheffield ML group
-,"Kampala, Uganda",6,9,August,,2013,"Gaussian Process School",./gprs13,Ricardo Andrade Pacheco, John Quinn and Martin Mubangizi
+,"Leahurst, UK",4,5,November,,2013,"Disease Mapping Workshop",./leahurst13,Peter Diggle and Peter Gething
+,"Kampala, Uganda",6,9,August,,2013,"Gaussian Process School",./gprs13,"Ricardo Andrade Pacheco, John Quinn and Martin Mubangizi"
 ,"Sheffield, UK",13,,June,,2013,"Latent Force Model Workshop",./lfm13,Mauricio Alvarez
 ,"Sheffield, UK",10,12,June,,2013,"Gaussian Process Summer School",./gpss13,Nicolas Durrande and the Sheffield ML group
-,"Grasmere, The Lake District, UK",,,,,,"Bayesian Research Kitchen",./bark,Joaquin Quinonero Candela
+,"Whistler, Cananda",12,,December,,2009,"Kernels for Multiple Outputs and Multi-task Learning: Frequentist and Bayesian Points of View",./mock09,Mauricio Alvarez and Lorenzo Rosasco
+,"Manchester, UK",23,24,July,,2009,"Statistics and Learning Interface Meeting: Multiple Output Gaussian Processes",./slim09,Mauricio Alvarez
+,"Grasmere, The Lake District, UK",,,,,,"Bayesian Research Kitchen",./bark08,Joaquin Quinonero Candela
 ,"Bletchley Park, UK",12,13,June,,2006,"Gaussian Processes in Practice",./gpip,Joaquin Quinonero Candela and Anton Schwaighofer
 ,"Sheffield, UK",9,10,June,,2005,"Gaussian Process Round Table",./gprt,
