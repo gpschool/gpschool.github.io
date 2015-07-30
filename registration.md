@@ -6,8 +6,7 @@ main: Y
 ---
 
 
-Registration for the GP Summer School 15th to 17th September and for the
-Feature Extraction with GPs workshop, 18th September.
+Registration for the GP Summer School 14th to 16th September and for the workshop on Global Optimization with GPs, 17th September.
 
 ### Registration Fees:
 
