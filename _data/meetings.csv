@@ -1,7 +1,7 @@
 present,location,startday,endday,startmonth,endmonth,year,event,url,coorganizers
-Y,"Sheffield, UK",21,25,September,,2015,"Machine Learning for Personalised Mediccine Summer School",./mlpm15,Max Zwiessele and the MLPM ITN Network
-Y,"Sheffield, UK",17,17,September,,2015,"Workshop on Gaussian Processes for Global Optimization",./gpgo15,Javier Gonzalez and the Sheffield ML group
-Y,"Sheffield, UK",14,16,September,,2015,"Gaussian Process Summer School",./gpss15,Javier Gonzalez and the Sheffield ML group
+,"Sheffield, UK",21,25,September,,2015,"Machine Learning for Personalised Mediccine Summer School",./mlpm15,Max Zwiessele and the MLPM ITN Network
+,"Sheffield, UK",17,17,September,,2015,"Workshop on Gaussian Processes for Global Optimization",./gpgo15,Javier Gonzalez and the Sheffield ML group
+,"Sheffield, UK",14,16,September,,2015,"Gaussian Process Summer School",./gpss15,Javier Gonzalez and the Sheffield ML group
 ,"Nyeri, Kenya",15,17,June,,2015,"ODS: Data Science School",./dss15,"Andreas Damianou, Mike Smith, Ciira wa Maina and John Quinn"
 ,"Nyeri, Kenya",18,19,June,,2015,"Workshop on Datascience in Africa",./dsa15,"Ciira wa Maina and John Quinn"
 ,"Copenhagen, Denmark",21,22,May,,2015,Workshop on Gaussian Process Approximations,./gpa15,"Aki Vehtari and Ole Winther"
