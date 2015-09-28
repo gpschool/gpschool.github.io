@@ -1,5 +1,5 @@
 present,location,startday,endday,startmonth,endmonth,year,event,url,coorganizers
-,"Sheffield, UK",21,25,September,,2015,"Machine Learning for Personalised Mediccine Summer School",./mlpm15,Max Zwiessele and the MLPM ITN Network
+,"Manchester, UK",21,25,September,,2015,"Machine Learning for Personalised Mediccine Summer School",./mlpm15,Max Zwiessele and the MLPM ITN Network
 ,"Sheffield, UK",17,17,September,,2015,"Workshop on Gaussian Processes for Global Optimization",./gpgo15,Javier Gonzalez and the Sheffield ML group
 ,"Sheffield, UK",14,16,September,,2015,"Gaussian Process Summer School",./gpss15,Javier Gonzalez and the Sheffield ML group
 ,"Nyeri, Kenya",15,17,June,,2015,"ODS: Data Science School",./dss15,"Andreas Damianou, Mike Smith, Ciira wa Maina and John Quinn"
@@ -11,7 +11,7 @@ present,location,startday,endday,startmonth,endmonth,year,event,url,coorganizers
 ,"Sheffield, UK",15,17,September,,2014,"Gaussian Process Summer School",./gpss14,Zhenwen Dai
 ,"Pereira, Colombia",11,14,February,,2014,"Gaussian Process School",./gprs14,Mauricio Alvarez
 ,"Sheffield, UK",16,,January,,2014,"Workshop on Spatiotemporal Modelling with Gaussian Processes",./gpst14,
-,"Sheffield, UK",13,15,January,,2014,"Gaussian Process Winter School",./gpws14,Alan Saul, Andreas Damianou and the Sheffield ML group
+,"Sheffield, UK",13,15,January,,2014,"Gaussian Process Winter School",./gpws14,"Alan Saul, Andreas Damianou and the Sheffield ML group"
 ,"Leahurst, UK",4,5,November,,2013,"Disease Mapping Workshop",./leahurst13,Peter Diggle and Peter Gething
 ,"Kampala, Uganda",6,9,August,,2013,"Gaussian Process School",./gprs13,"Ricardo Andrade Pacheco, John Quinn and Martin Mubangizi"
 ,"Sheffield, UK",13,,June,,2013,"Latent Force Model Workshop",./lfm13,Mauricio Alvarez
