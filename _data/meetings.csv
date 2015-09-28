@@ -1,4 +1,5 @@
 present,location,startday,endday,startmonth,endmonth,year,event,url,coorganizers
+Y,"Sheffield, UK",,,September,,2016,"Gaussian Process Summer School",,,
 ,"Manchester, UK",21,25,September,,2015,"Machine Learning for Personalised Mediccine Summer School",./mlpm15,Max Zwiessele and the MLPM ITN Network
 ,"Sheffield, UK",17,17,September,,2015,"Workshop on Gaussian Processes for Global Optimization",./gpgo15,Javier Gonzalez and the Sheffield ML group
 ,"Sheffield, UK",14,16,September,,2015,"Gaussian Process Summer School",./gpss15,Javier Gonzalez and the Sheffield ML group
