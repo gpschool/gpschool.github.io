@@ -30,7 +30,7 @@ School](http://nbviewer.ipython.org/github/SheffieldML/notebook/blob/master/lab_
 
 The next scheduled schools are:
 {% for meeting in site.data.meetings %}
-{% if meeting.present %}[{{ meeting.event }}]({{ meeting.url }}), {{ meeting.location }}{% if meeting.startday %}, {{ meeting.startday }}{% if meeting.endday %}-{{ meeting.endday }}{% endif %}{% endif %} {{ meeting.startmonth }} {{ meeting.year }}{% endif %}
+{% if meeting.present %}{% if meeting.url %}[{{ meeting.event }}]({{ meeting.url }}){% else %}{{ meeting.event }}{% endif %}, {{ meeting.location }}{% if meeting.startday %}, {{ meeting.startday }}{% if meeting.endday %}-{{ meeting.endday }}{% endif %}{% endif %} {{ meeting.startmonth }} {{ meeting.year }}{% endif %}
 {% endfor %}
 
 The most recent road shows were the [Gaussian Process Winter School in Genoa,
