@@ -35,6 +35,6 @@ The next scheduled schools are:
 
 The most recent road shows were the [Gaussian Process Winter School in Genoa,
 Italy](./gprs15a) and the [Gaussian Process Summer School in Melbourne](./gprs15b). The most recent Sheffield school was the [The
-Gaussian Process Summer School](./gpss15) held from 14th to 16th
-September 2015. It was followed by a workshop on [Gaussian Processes for Global Optimization](./gpgo15/).
+Gaussian Process Summer School](./gpuqss16) held from 12th to 15th
+September 2016. It was followed by an [Uncertainty Quantification Workshop](http://gpss.cc/gpuqss16/).
 
