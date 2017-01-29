@@ -20,7 +20,7 @@ on demand, a further school in September.
 
 As part of the [Open Data Science
 Initiative](http://ml.dcs.shef.ac.uk/odss/) we have also begun a series
-of schools on "Data Science" starting with the first in Kenya June 2015.
+of schools on [Data Science in Africa](http://www.datascienceafrica.org/) starting with the [first in Kenya June 2015](http://www.datascienceafrica.org/dsa2015/). The next will be in [Arusha, Tanzania in July 2017](http://www.datascienceafrica.org/dsa2017/).
 
 Neil also presented on Gaussian processes at the [2015 Sydney
 Machine Learning Summer
