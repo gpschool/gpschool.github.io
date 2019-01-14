@@ -1,6 +1,7 @@
 present,location,startday,endday,startmonth,endmonth,year,event,url,coorganizers
-Y,"Sheffield, UK",11,15,September,,2017,"Gaussian Process and Uncertainty Quantification Summer School",./gpss17,"Javier Gonzalez, Rich Wilkinson, Neil LawrenceJeremy Oakley and the Sheffield ML group"
-Y,"Sheffield, UK",6,7,February,,2017,"Gaussian Process and Bayesian Optimization Masterclass",./gpmc17,"Javier Gonzalez, Neil Lawrence"
+Y,"Sheffield, UK",3,6,September,,2018,"Gaussian Process and Uncertainty Quantification Summer School",./gpss18,"Mauricio A Alvarez Lopez, Rich Wilkinson, Mike Smith, Wil Ward, Fariba Yousefi, Juan Jose, Neil Lawrence and the Sheffield ML group"
+,"Sheffield, UK",11,14,September,,2017,"Gaussian Process and Uncertainty Quantification Summer School",./gpss17,"Javier Gonzalez, Rich Wilkinson, Neil LawrenceJeremy Oakley and the Sheffield ML group"
+,"Sheffield, UK",6,7,February,,2017,"Gaussian Process and Bayesian Optimization Masterclass",./gpmc17,"Javier Gonzalez, Neil Lawrence"
 ,"Sheffield, UK",12,16,September,,2016,"Gaussian Process and Uncertainty Quantification Summer School",./gpuqss16,"Javier Gonzalez, Rich Wilkinson, Neil Lawrence, Jeremy Oakley and the Sheffield ML group"
 ,"Manchester, UK",21,25,September,,2015,"Machine Learning for Personalised Medicine Summer School",./mlpm15,Max Zwiessele and the MLPM ITN Network
 ,"Sheffield, UK",17,17,September,,2015,"Workshop on Gaussian Processes for Global Optimization",./gpgo15,Javier Gonzalez and the Sheffield ML group
