@@ -4,6 +4,9 @@ title: Gaussian Process Summer Schools
 tagline: open education in Gaussian process modelling
 ---
 
+The Gaussian Process Summer Schools are a series of schools and workshops aimed at researchers who want to understand and use Gaussian process models, both in theory and practice. The main summer schools are held in Sheffield, UK. But we also have a series of events that take the summer school 'on tour' with Gaussian Process Road 
+Shows. 
+
 ### Upcoming Schools
 
 The next scheduled school is:
@@ -11,9 +14,10 @@ The next scheduled school is:
 {% if meeting.present %}{% if meeting.url %}[{{ meeting.event }}]({{ meeting.url }}){% else %}{{ meeting.event }}{% endif %}, {{ meeting.location }}{% if meeting.startday %}, {{ meeting.startday }}{% if meeting.endday %}-{{ meeting.endday }}{% endif %}{% endif %} {{ meeting.startmonth }} {{ meeting.year }}{% endif %}
 {% endfor %}
 
-Registration for the GPSS 2019 summer school will open mid- to late-March 2019. For enquiries please email <a href="mailto:mauricio.alvarez@sheffield.ac.uk">Mauricio Alvarez</a>.
+Registration for the GPSS 2019 will open **March 25, 2019**. 
 
-The Gaussian Process Summer Schools are a series of schools and workshops aimed at researchers who want to understand and use Gaussian process models, both in theory and practice. The main summer schools are held in Sheffield, UK. But we also have a series of events that take the summer school 'on tour' with Gaussian Process Road Shows. 
+Visit [GPSS 2019](http://gpss.cc/gpss19/) for more details. For enquiries please email <a href="mailto:mauricio.alvarez@sheffield.ac.uk">Mauricio Alvarez</a>.
+
 
 ### History of the Summer School
 
