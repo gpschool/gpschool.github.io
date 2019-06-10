@@ -9,4 +9,4 @@ Gaussian process summer schools were started at the University of Sheffield in 2
 
 The next scheduled school is:
 
-Gaussian Process and Uncertainty Quantification Summer School, Sheffield, UK, 9-12 September 2019. Visit [GPSS 2019](http://gpss.cc/gpss19) for more details.
+Gaussian Process and Uncertainty Quantification Summer School, Sheffield, UK, 9-12 September 2019.
