@@ -14,8 +14,9 @@ The next scheduled school is:
 {% if meeting.present %}{% if meeting.url %}[{{ meeting.event }}]({{ meeting.url }}){% else %}{{ meeting.event }}{% endif %}, {{ meeting.location }}{% if meeting.startday %}, {{ meeting.startday }}{% if meeting.endday %}-{{ meeting.endday }}{% endif %}{% endif %} {{ meeting.startmonth }} {{ meeting.year }}{% endif %}
 {% endfor %}
 
-Registration for the GPSS 2019 is now closed. Visit [GPSS 2019](http://gpss.cc/gpss19/). For enquiries please email <a href="mailto:mauricio.alvarez@sheffield.ac.uk">Mauricio Alvarez</a>.
+For details, visit [GPSS 2019](http://gpss.cc/gpss19/).<br/>
 
+Registration for the GPSS 2019 is now closed. 
 
 ### History of the Summer School
 
