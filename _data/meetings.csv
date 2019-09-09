@@ -1,28 +1,28 @@
 present,location,startday,endday,startmonth,endmonth,year,event,url,coorganizers
-Y,"Sheffield, UK",9,12,September,,2019,"Gaussian Process and Uncertainty Quantification Summer School",,"Mauricio A Alvarez Lopez, Rich Wilkinson, Mike Smith, Wil Ward, Fariba Yousefi, Juan Jose, Neil Lawrence and the Sheffield ML group"
-,"Sheffield, UK",3,6,September,,2018,"Gaussian Process and Uncertainty Quantification Summer School",./gpss18,"Mauricio A Alvarez Lopez, Rich Wilkinson, Mike Smith, Wil Ward, Fariba Yousefi, Juan Jose, Neil Lawrence and the Sheffield ML group"
-,"Sheffield, UK",11,14,September,,2017,"Gaussian Process and Uncertainty Quantification Summer School",./gpss17,"Javier Gonzalez, Rich Wilkinson, Neil LawrenceJeremy Oakley and the Sheffield ML group"
-,"Sheffield, UK",6,7,February,,2017,"Gaussian Process and Bayesian Optimization Masterclass",./gpmc17,"Javier Gonzalez, Neil Lawrence"
-,"Sheffield, UK",12,16,September,,2016,"Gaussian Process and Uncertainty Quantification Summer School",./gpuqss16,"Javier Gonzalez, Rich Wilkinson, Neil Lawrence, Jeremy Oakley and the Sheffield ML group"
-,"Manchester, UK",21,25,September,,2015,"Machine Learning for Personalised Medicine Summer School",./mlpm15,Max Zwiessele and the MLPM ITN Network
-,"Sheffield, UK",17,17,September,,2015,"Workshop on Gaussian Processes for Global Optimization",./gpgo15,Javier Gonzalez and the Sheffield ML group
-,"Sheffield, UK",14,16,September,,2015,"Gaussian Process Summer School",./gpss15,Javier Gonzalez and the Sheffield ML group
-,"Nyeri, Kenya",15,17,June,,2015,"ODS: Data Science School",./dss15,"Andreas Damianou, Mike Smith, Ciira wa Maina and John Quinn"
-,"Nyeri, Kenya",18,19,June,,2015,"Workshop on Datascience in Africa",./dsa15,"Ciira wa Maina and John Quinn"
-,"Copenhagen, Denmark",21,22,May,,2015,Workshop on Gaussian Process Approximations,./gpa15,"Aki Vehtari and Ole Winther"
-,"Melbourne, Australia",25,27,February,,2015,"Gaussian Process Summer School",./gprs15b,Trevor Cohn
-,"Genoa, Italy",19,22,January,,2015,"Gaussian Process Winter School",./gprs15a,Alessandro Rudi and Lorenzo Rosasco
-,"Sheffield, UK",18,,September,,2014,"Workshop on Gaussian Processes for Feature Extraction",./gpfe14,Zhenwen Dai
-,"Sheffield, UK",15,17,September,,2014,"Gaussian Process Summer School",./gpss14,Zhenwen Dai
-,"Pereira, Colombia",11,14,February,,2014,"Gaussian Process School",./gprs14,Mauricio Alvarez
-,"Sheffield, UK",16,,January,,2014,"Workshop on Spatiotemporal Modelling with Gaussian Processes",./gpst14,
-,"Sheffield, UK",13,15,January,,2014,"Gaussian Process Winter School",./gpws14,"Alan Saul, Andreas Damianou and the Sheffield ML group"
-,"Leahurst, UK",4,5,November,,2013,"Disease Mapping Workshop",./leahurst13,Peter Diggle and Peter Gething
-,"Kampala, Uganda",6,9,August,,2013,"Gaussian Process School",./gprs13,"Ricardo Andrade Pacheco, John Quinn and Martin Mubangizi"
-,"Sheffield, UK",13,,June,,2013,"Latent Force Model Workshop",./lfm13,Mauricio Alvarez
-,"Sheffield, UK",10,12,June,,2013,"Gaussian Process Summer School",./gpss13,Nicolas Durrande and the Sheffield ML group
-,"Whistler, Cananda",12,,December,,2009,"Kernels for Multiple Outputs and Multi-task Learning: Frequentist and Bayesian Points of View",./mock09,Mauricio Alvarez and Lorenzo Rosasco
-,"Manchester, UK",23,24,July,,2009,"Statistics and Learning Interface Meeting: Multiple Output Gaussian Processes",./slim09,Mauricio Alvarez
-,"Grasmere, The Lake District, UK",,,,,,"Bayesian Research Kitchen",./bark08,Joaquin Quinonero Candela
-,"Bletchley Park, UK",12,13,June,,2006,"Gaussian Processes in Practice",./gpip,Joaquin Quinonero Candela and Anton Schwaighofer
-,"Sheffield, UK",9,10,June,,2005,"Gaussian Process Round Table",./gprt,
+Y,"Sheffield, UK",9,12,September,,2019,Gaussian Process and Uncertainty Quantification Summer School,,"Mauricio A Alvarez Lopez, Rich Wilkinson, Mike Smith, Wil Ward, Fariba Yousefi, Juan Jose, Neil Lawrence and the Sheffield ML group"
+,"Sheffield, UK",3,6,September,,2018,Gaussian Process and Uncertainty Quantification Summer School,./gpss18,"Mauricio A Alvarez Lopez, Rich Wilkinson, Mike Smith, Wil Ward, Fariba Yousefi, Juan Jose, Neil Lawrence and the Sheffield ML group"
+,"Sheffield, UK",11,14,September,,2017,Gaussian Process and Uncertainty Quantification Summer School,./gpss17,"Mauricio A Alvarez Lopez, Javier Gonzalez, Rich Wilkinson, Neil Lawrence, Jeremy Oakley and the Sheffield ML group"
+,"Sheffield, UK",6,7,February,,2017,Gaussian Process and Bayesian Optimization Masterclass,./gpmc17,"Javier Gonzalez, Neil Lawrence"
+,"Sheffield, UK",12,16,September,,2016,Gaussian Process and Uncertainty Quantification Summer School,./gpuqss16,"Javier Gonzalez, Rich Wilkinson, Neil Lawrence, Jeremy Oakley and the Sheffield ML group"
+,"Manchester, UK",21,25,September,,2015,Machine Learning for Personalised Medicine Summer School,./mlpm15,Max Zwiessele and the MLPM ITN Network
+,"Sheffield, UK",17,17,September,,2015,Workshop on Gaussian Processes for Global Optimization,./gpgo15,Javier Gonzalez and the Sheffield ML group
+,"Sheffield, UK",14,16,September,,2015,Gaussian Process Summer School,./gpss15,Javier Gonzalez and the Sheffield ML group
+,"Nyeri, Kenya",15,17,June,,2015,ODS: Data Science School,./dss15,"Andreas Damianou, Mike Smith, Ciira wa Maina and John Quinn"
+,"Nyeri, Kenya",18,19,June,,2015,Workshop on Datascience in Africa,./dsa15,Ciira wa Maina and John Quinn
+,"Copenhagen, Denmark",21,22,May,,2015,Workshop on Gaussian Process Approximations,./gpa15,Aki Vehtari and Ole Winther
+,"Melbourne, Australia",25,27,February,,2015,Gaussian Process Summer School,./gprs15b,Trevor Cohn
+,"Genoa, Italy",19,22,January,,2015,Gaussian Process Winter School,./gprs15a,Alessandro Rudi and Lorenzo Rosasco
+,"Sheffield, UK",18,,September,,2014,Workshop on Gaussian Processes for Feature Extraction,./gpfe14,Zhenwen Dai
+,"Sheffield, UK",15,17,September,,2014,Gaussian Process Summer School,./gpss14,Zhenwen Dai
+,"Pereira, Colombia",11,14,February,,2014,Gaussian Process School,./gprs14,Mauricio Alvarez
+,"Sheffield, UK",16,,January,,2014,Workshop on Spatiotemporal Modelling with Gaussian Processes,./gpst14,
+,"Sheffield, UK",13,15,January,,2014,Gaussian Process Winter School,./gpws14,"Alan Saul, Andreas Damianou and the Sheffield ML group"
+,"Leahurst, UK",4,5,November,,2013,Disease Mapping Workshop,./leahurst13,Peter Diggle and Peter Gething
+,"Kampala, Uganda",6,9,August,,2013,Gaussian Process School,./gprs13,"Ricardo Andrade Pacheco, John Quinn and Martin Mubangizi"
+,"Sheffield, UK",13,,June,,2013,Latent Force Model Workshop,./lfm13,Mauricio Alvarez
+,"Sheffield, UK",10,12,June,,2013,Gaussian Process Summer School,./gpss13,Nicolas Durrande and the Sheffield ML group
+,"Whistler, Cananda",12,,December,,2009,Kernels for Multiple Outputs and Multi-task Learning: Frequentist and Bayesian Points of View,./mock09,Mauricio Alvarez and Lorenzo Rosasco
+,"Manchester, UK",23,24,July,,2009,Statistics and Learning Interface Meeting: Multiple Output Gaussian Processes,./slim09,Mauricio Alvarez
+,"Grasmere, The Lake District, UK",,,,,,Bayesian Research Kitchen,./bark08,Joaquin Quinonero Candela
+,"Bletchley Park, UK",12,13,June,,2006,Gaussian Processes in Practice,./gpip,Joaquin Quinonero Candela and Anton Schwaighofer
+,"Sheffield, UK",9,10,June,,2005,Gaussian Process Round Table,./gprt,
