@@ -14,7 +14,7 @@ The next scheduled school is:
 {% if meeting.present %}{% if meeting.url %}[{{ meeting.event }}]({{ meeting.url }}){% else %}{{ meeting.event }}{% endif %}, {{ meeting.location }}{% if meeting.startday %}, {{ meeting.startday }}{% if meeting.endday %}-{{ meeting.endday }}{% endif %}{% endif %} {{ meeting.startmonth }} {{ meeting.year }}{% endif %}
 {% endfor %}
 
-Registration for the GPSS 2020 will open at the end of March. 
+Registration for the GPSS 2020 will open at the end of April. 
 
 ### History of the Summer School
 
