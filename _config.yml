@@ -12,6 +12,8 @@ plugins:
 - jekyll-seo-tag
 - jekyll-remote-theme
 remote_theme: lawrennd/proceedings
+style: aistats
+
 logo: "gpss_logo.svg"
 url: "http://gpss.cc" # the base hostname & protocol for your site
 twitter_username: datascienceshef
