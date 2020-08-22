@@ -2,6 +2,7 @@
 layout: page
 title: Gaussian Process Workshop on Spatio-Temporal Modelling, 2014
 tagline: workshop on using GPs with spatial and temporal data.
+hide: True
 ---
 
 

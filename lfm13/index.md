@@ -2,6 +2,7 @@
 layout: page
 title: Latent Force Model Workshop
 tagline: workshop on combining differential equations with Gaussian processes
+hide: True
 ---
 
 University of Sheffield

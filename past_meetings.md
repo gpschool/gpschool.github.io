@@ -2,7 +2,7 @@
 layout: page
 title: Past Meetings
 tagline: where we've been before and when
-main: Y
+weight: 5
 ---
 
 {% for meeting in site.data.meetings %}

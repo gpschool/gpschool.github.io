@@ -2,7 +2,7 @@
 layout: page
 title: Accommodation
 tagline: where to stay and eat
-main: Y
+weight: 2
 ---
 
 

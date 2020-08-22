@@ -2,6 +2,7 @@
 layout: page
 title: Lab Classes
 tagline: Gaussian process winter school, 2014
+hide: True
 ---
 
 

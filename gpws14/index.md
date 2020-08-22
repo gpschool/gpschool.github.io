@@ -2,6 +2,7 @@
 layout: page
 title: Gaussian Process Winter School, 2014
 tagline: Sheffield winter school on Gaussian processes
+hide: True
 ---
 
 

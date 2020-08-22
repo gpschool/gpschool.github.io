@@ -2,6 +2,7 @@
 layout: page
 title: Gaussian Process Summer School, 2013
 tagline: first Gaussian process summer school
+hide: True
 ---
 
 

@@ -12,9 +12,8 @@ plugins:
 - jekyll-seo-tag
 - jekyll-remote-theme
 remote_theme: lawrennd/proceedings
-style: aistats
+style: gpss
 
-logo: "gpss_logo.svg"
 url: "http://gpss.cc" # the base hostname & protocol for your site
 twitter_username: datascienceshef
 github_username:  SheffieldML
@@ -24,6 +23,13 @@ ghub:
   edit: true
   repository: gpschool.github.io
 
+conference:
+  draft: false # set to True if the programme is draft only.
+  hide_tentative: true
+  logo: gpss-logo.svg
+  name: Gaussian Process Summer Schools
+  short_name: GPSS
+  full_name: Gaussian Processes in Practice
 
 analytics:
   google:
