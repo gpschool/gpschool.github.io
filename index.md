@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+weight: 1
 tagline: open education in Gaussian process modelling
 ---
 
