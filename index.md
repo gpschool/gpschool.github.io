@@ -17,7 +17,7 @@ The next scheduled school is:
 {% endfor %}
 -->
 
-GPSS 2021 will be a virtual event from September 13 to September 16, 2021. Registrations will open mid-May.  
+GPSS 2021 will be a virtual event from September 13 to September 16, 2021. Registrations will open at the end of May.  
 
 ### History of the Summer School
 
