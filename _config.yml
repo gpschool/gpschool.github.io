@@ -20,7 +20,7 @@ github_username:  gpschool
 facebook_page: gaussianprocesssummerschool
 
 ghub:
-  edit: true
+  edit: false
   repository: gpschool.github.io
 
 conference:
