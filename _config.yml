@@ -11,7 +11,7 @@ plugins:
 - jekyll-feed
 - jekyll-seo-tag
 - jekyll-remote-theme
-remote_theme: lawrennd/proceedings
+remote_theme: gpschool/jekyll-theme
 style: gpss
 
 url: "http://gpss.cc" # the base hostname & protocol for your site
