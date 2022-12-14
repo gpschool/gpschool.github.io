@@ -9,8 +9,8 @@ The Gaussian Process Summer Schools are a series of schools and workshops aimed 
 
 ### Upcoming Schools
 
-[GPSS 2022](http://gpss.cc/gpss22/) will be a **real event** from September 12 to September 15, 2022. 
+[GPSS 2022](https://gpss.cc/gpss22/) will be a **real event** from September 12 to September 15, 2022. 
 
 ### History of the Summer School
 
-The first meetings were the [Gaussian Process Round Table](http://gpss.cc/gprt/) and [Gaussian Processes in Practice](http://gpss.cc/gpip/) meetings (in 2005/06). The formal, annual summer schools were started in June 2013 with the first [Gaussian Process Summer School](./gpss13). We also ran the first roadshow meeting, in [Kampala, Uganda](./gprs13/) in August 2013. Other road shows were at the [Gaussian Process Winter School in Genoa, Italy](./gprs15a) and the [Gaussian Process Summer School in Melbourne](./gprs15b), while Neil presented Gaussian processes at the [2015 Sydney Machine Learning Summer School](http://nbviewer.ipython.org/github/SheffieldML/notebook/blob/master/lab_classes/mlss/index.ipynb).
+The first meetings were the [Gaussian Process Round Table](https://gpss.cc/gprt/) and [Gaussian Processes in Practice](https://gpss.cc/gpip/) meetings (in 2005/06). The formal, annual summer schools were started in June 2013 with the first [Gaussian Process Summer School](./gpss13). We also ran the first roadshow meeting, in [Kampala, Uganda](./gprs13/) in August 2013. Other road shows were at the [Gaussian Process Winter School in Genoa, Italy](./gprs15a) and the [Gaussian Process Summer School in Melbourne](./gprs15b), while Neil presented Gaussian processes at the [2015 Sydney Machine Learning Summer School](https://nbviewer.ipython.org/github/SheffieldML/notebook/blob/master/lab_classes/mlss/index.ipynb).
