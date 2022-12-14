@@ -14,7 +14,7 @@ plugins:
 remote_theme: gpschool/jekyll-theme
 style: gpss
 
-url: "http://gpss.cc" # the base hostname & protocol for your site
+url: "https://gpss.cc" # the base hostname & protocol for your site
 twitter_username: datascienceshef
 github_username:  gpschool
 facebook_page: gaussianprocesssummerschool
