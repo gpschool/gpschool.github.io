@@ -9,7 +9,7 @@ The Gaussian Process Summer Schools are a series of schools and workshops aimed 
 
 ### Upcoming Schools
 
-[GPSS 2022](https://gpss.cc/gpss22/) will be a **real event** from September 12 to September 15, 2022. 
+[GPSS 2022](https://gpss.cc/gpss22/) will be a **live event** from September 12 to September 15, 2022. 
 
 ### History of the Summer School
 
