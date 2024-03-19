@@ -9,7 +9,7 @@ The Gaussian Process Summer Schools are a series of schools and workshops aimed 
 
 ### Upcoming Schools
 
-[GPSS 2023](https://gpss.cc/gpss23/) will be hosted at The University of Manchester, UK, from September 11 to September 14. **Registrations are now open until July 31.** 
+[GPSS 2023](https://gpss.cc/gpss23/) will be hosted at The University of Manchester, UK, from September 11 to September 14.  
 
 ### History of the Summer School
 
