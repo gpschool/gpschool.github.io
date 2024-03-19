@@ -1,5 +1,6 @@
 present,location,startday,endday,startmonth,endmonth,year,event,url,coorganizers
-Y,"Manchester, UK",11,14,September,,2023,Gaussian Process and Uncertainty Quantification Summer School,./gpss23,"Mauricio A Alvarez Lopez, Javier Gonzalez, Mike Smith, Rich Wilkinson, Carl Henrik Ek, Neil Lawrence "
+Y,"Manchester, UK",9,12,September,,2024,Gaussian Process and Uncertainty Quantification Summer School,./gpss24,"Mauricio A Alvarez Lopez, Carl Henrik Ek, Rich Wilkinson, Henry Moss, Neil Lawrence "
+,"Manchester, UK",11,14,September,,2023,Gaussian Process and Uncertainty Quantification Summer School,./gpss23,"Mauricio A Alvarez Lopez, Javier Gonzalez, Mike Smith, Rich Wilkinson, Carl Henrik Ek, Neil Lawrence "
 ,"Sheffield, UK",12,15,September,,2022,Gaussian Process and Uncertainty Quantification Summer School,./gpss22,"Mauricio A Alvarez Lopez, Javier Gonzalez, Mike Smith, Rich Wilkinson, Neil Lawrence and the Sheffield ML group"
 ,virtual event,13,16,September,,2021,Gaussian Process and Uncertainty Quantification Summer School,./gpss21,"Mauricio A Alvarez Lopez, Javier Gonzalez, Wil Ward, Mike Smith, Rich Wilkinson, Neil Lawrence and the Sheffield ML group"
 ,virtual event,14,17,September,,2020,Gaussian Process and Uncertainty Quantification Summer School,./gpss20,"Mauricio A Alvarez Lopez, Rich Wilkinson, Mike Smith, Javier Gonzalez, Neil Lawrence and the Sheffield ML group"
