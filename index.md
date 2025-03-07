@@ -9,7 +9,7 @@ The Gaussian Process Summer Schools are a series of schools and workshops aimed 
 
 ### Upcoming Schools
 
-[GPSS 2025](https://gpss.cc/gpss25/) was hosted at The University of Manchester, UK, from September 8 to September 11.  
+[GPSS 2025](https://gpss.cc/gpss25/) will be hosted at The University of Manchester, UK, from September 8 to September 11.  
 
 ### History of the Summer School
 
